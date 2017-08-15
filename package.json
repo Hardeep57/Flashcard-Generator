@@ -1,0 +1,13 @@
+{
+  "name": "Flashcard gennerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Basiccard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hardeep",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
